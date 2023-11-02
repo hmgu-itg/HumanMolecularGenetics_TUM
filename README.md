@@ -89,5 +89,43 @@ This is the repository for the course materials and workshops. we have also incl
 </table>
 </center>
 
+## Zoom links
+<table>
+<tr>
+<td align="center"><strong>Day 1 (7th of November)</td>
+<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
+<td align="center">Passcode: 035429</td>
+</tr>
+<tr>
+<td align="center"><strong>Day 2 (14th of November)</td>
+<td align="center"><a href="https://tum-conf.zoom-x.de/j/62989508433?pwd=WC9LVmFjT0Y2NjBuZzR3NlJ5ZzRzQT09">zoom link </a> </td>
+<td align="center">Passcode: 099147</td>
+</tr>
+<tr>
+<td align="center"><strong>Day 3 (21th of November)</td>
+<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
+<td align="center">Passcode: 035429</td>-->
+</tr>
+<tr>
+<td align="center"><strong>Day 4 (28th of November)</td>
+<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
+<td align="center">Passcode: 035429</td>-->
+</tr>
+<tr>
+<td align="center"><strong>Day 5 (5th of December)</td>
+<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
+<td align="center">Passcode: 035429</td>-->
+</tr>
+<tr>
+<td align="center"><strong>Day 6 (12th of December)</td>
+<td align="center"><a href="https://tum-conf.zoom-x.de/j/66296920718?pwd=akVpaFd1TVNmdEFNY3FKK0tTdUN0UT09">zoom link </a> </td>
+<td align="center">Passcode: 457283</td>
+</tr>
+<tr>
+<td align="center"><strong>Day 7 (19th of December)</td>
+<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
+<td align="center">Passcode: 035429</td>-->
+</tr>
+</table>
 
 
