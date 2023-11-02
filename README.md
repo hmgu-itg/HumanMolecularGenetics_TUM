@@ -1,6 +1,6 @@
 <div align="center">
-<h1>4th Volos Summer School of Human Genetics</h1>
-<i>12-15 June 2023, Volos, Thessalia</i>
+<h1>Human Molecular Genetics TUM Workshop</h1>
+<i>Winter term 2023</i>
 </div>
 <br>
 <br>
@@ -13,31 +13,40 @@ This is the repository for the course materials and workshops.
 ## Lectures
 <table>
 <tr>
-<td align="center"><strong>Lecture 1 : </strong> Introduction to complex trait genetics (E. Zeggini)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture1_Introduction.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 1 : </strong> Current tools and best practices for performing GWAS (K. Hatzikotoulas)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture1_QC.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 2 : </strong> Quality control (K. Hatzikotoulas)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture2_QC.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 2 : </strong> Sequencing methods (O. Bocher)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture2_seq.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 3 : </strong> Statistics for Human Genetics (O. Bocher)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture3_Statistics.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture3_Statistics.pdf">download presentation</a> </td>
 </tr>
 <tr>
 <td align="center"><strong>Lecture 4 : </strong> Meta-analysis strategies in genome-wide association studies (O. Bocher)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture4_MetaAnalysis.pdf">download presentation</a> </td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture4_MetaAnalysis.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 5 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture5_PublicResources.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 5 : </strong> Rare variants (O. Bocher)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture5_PublicResources.pdf">download presentation</a> </td>
 </tr>
 <tr>
-<td align="center"><strong>Lecture 6 : </strong> An introduction to Polygenic Scores (A. Arruda)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture6_PGS.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 6 : </strong> Molecular QTL mapping in humans (M. Tutino)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture6_molQTL.pdf">download presentation</a> </td>
+</tr>
 <tr>
-<td align="center"><strong>Lecture 7 : </strong> Molecular QTL mapping in humans (O. Bocher)</td>
-<td align="center"><a href="https://github.com/wtsi-team144/VolosSummerSchool/raw/master/VSS_2023/Lectures/Lecture7_molQTL.pdf">download presentation</a> </td>
+<td align="center"><strong>Lecture 7 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture7_PublicResources.pdf">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 8 : </strong> An introduction to Polygenic Scores (A. Arruda)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture8_PGS.pdf">download presentation</a> </td>
+</tr>
+<tr>
+<td align="center"><strong>Lecture 9 : </strong> The genomic aetiology of osteoarthritis (E. Zeggini)</td>
+<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture9_OA.pdf">download presentation</a> </td>
 </tr>
 </table>
 
