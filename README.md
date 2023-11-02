@@ -18,7 +18,7 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td align="center"><strong>Lecture 2 : </strong> Sequencing methods (O. Bocher)</td>
-<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture2_seq.pdf">download presentation</a> </td>
+<!--<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture2_seq.pdf">download presentation</a> </td>-->
 </tr>
 <tr>
 <td align="center"><strong>Lecture 3 : </strong> Statistics for Human Genetics (O. Bocher)</td>
@@ -30,11 +30,11 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td align="center"><strong>Lecture 5 : </strong> Rare variants (O. Bocher)</td>
-<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture5_RareVariants.pdf">download presentation</a> </td>
+<!--<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture5_RareVariants.pdf">download presentation</a> </td>-->
 </tr>
 <tr>
 <td align="center"><strong>Lecture 6 : </strong> Molecular QTL mapping in humans (M. Tutino)</td>
-<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture6_molQTL.pdf">download presentation</a> </td>
+<!--<td align="center"><a href="https://github.com/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/Lectures/Lecture6_molQTL.pdf">download presentation</a> </td>-->
 </tr>
 <tr>
 <td align="center"><strong>Lecture 7 : </strong> Publicly available bioinformatics resources (K. Hatzikotoulas)</td>
@@ -80,7 +80,7 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td><strong>Workshop 5 : </strong> Molecular QTL mapping in humans </td>
-<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/5_Workshop_molQTL/5_Workshop_molQTL.ipynb">Go to workshop</a> </td>
+<!--<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/5_Workshop_molQTL/5_Workshop_molQTL.ipynb">Go to workshop</a> </td>-->
 </tr>
 <tr>
 <td><strong>Workshop 6 : </strong> Polygenic risk scores </td>
