@@ -8,7 +8,7 @@
 
 Welcome! 
 
-This is the repository for the course materials and workshops. 
+This is the repository for the course materials and workshops. we have also included the instructions for setting up Google Colab, which you will need for the workshops.
 
 ## Lectures
 <table>
