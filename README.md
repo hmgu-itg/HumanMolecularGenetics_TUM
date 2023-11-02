@@ -118,8 +118,8 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td align="center"><strong>Day 6 (12th of December)</td>
-<td align="center"><a href="https://tum-conf.zoom-x.de/j/66296920718?pwd=akVpaFd1TVNmdEFNY3FKK0tTdUN0UT09">zoom link </a> </td>
-<td align="center">Passcode: 457283</td>
+<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/66296920718?pwd=akVpaFd1TVNmdEFNY3FKK0tTdUN0UT09">zoom link </a> </td>
+<td align="center">Passcode: 457283</td>-->
 </tr>
 <tr>
 <td align="center"><strong>Day 7 (19th of December)</td>
