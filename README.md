@@ -1,7 +1,6 @@
 <div align="center">
 <h1>Human Molecular Genetics TUM Workshop</h1>
-<i>Winter Term 2023</i>
-<i>Intitute of Translational Genomics - Helmholtz Munich </i>
+<i>Winter Term 2023 <br> Intitute of Translational Genomics - Helmholtz Munich </i>
 </div>
 <br>
 <br>
