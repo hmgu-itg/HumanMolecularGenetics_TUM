@@ -73,7 +73,7 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td><strong>Workshop 4 : </strong> Meta-analysis of genetic association studies</td>
-<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/4_Workshop_Meta_Analysis/4_Workshop_Meta-analysis_21Nov23.ipynb">Go to workshop</a>  <br>
+<td align="center"><a href="https://colab.research.google.com/github/hmgu-itg/HumanMolecularGenetics_TUM/blob/main/4_Workshop_Meta_Analysis/4_Workshop_Meta_analysis.ipynb">Go to workshop</a>  <br>
 <a href="https://drive.google.com/drive/folders/1eJ4481Jz62V9c0tnbNkbXKE6GW4RX4Ll?usp=sharing">Google drive folder </a>
 </td>
 </tr>
