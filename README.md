@@ -107,8 +107,8 @@ This is the repository for the course materials and workshops. we have also incl
 </tr>
 <tr>
 <td align="center"><strong>Day 4 (28th of November)</td>
-<!--<td align="center"><a href="https://tum-conf.zoom-x.de/j/62986073612?pwd=aGRySGh2bFQ3bldPcUVmdTN4aitrdz09">zoom link </a> </td>
-<td align="center">Passcode: 035429</td>-->
+<td align="center"><a href="https://zoom.us/j/94913082350?pwd=ajJQTFZxK2VuMUdPVWduOThaZVVPZz09">zoom link </a> </td>
+<td align="center">Passcode: ?.fWZ0</td>-->
 </tr>
 <tr>
 <td align="center"><strong>Day 5 (5th of December)</td>
